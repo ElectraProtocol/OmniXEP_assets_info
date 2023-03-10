@@ -2,5 +2,9 @@
     {
         "id": 0,
         "name": "Electra Protocol"
+    },
+    {
+        "id": 1,
+        "name": "Electra Protocol [wrapped token]"
     }
 ]
