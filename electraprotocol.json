@@ -10,5 +10,9 @@
     {
         "id": 67,
         "name": "NEXUS"
+    },
+    {
+        "id": 68,
+        "name": "Jeno dev token"
     }
 ]
