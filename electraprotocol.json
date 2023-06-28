@@ -10,5 +10,9 @@
     {
         "id": 11,
         "name": "BranniganToken"
+    },
+    {
+        "id": 16,
+        "name": "BENDER"
     }
 ]
