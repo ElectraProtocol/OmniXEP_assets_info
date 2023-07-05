@@ -14,5 +14,9 @@
     {
         "id": 16,
         "name": "BENDER"
+    },
+    {
+        "id": 80,
+        "name": "NFT_CONTRACT_TEST_00"
     }
 ]
