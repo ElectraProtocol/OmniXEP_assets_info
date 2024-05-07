@@ -1,18 +1,22 @@
 [
     {
         "id": 0,
-        "name": "Electra Protocol"
+        "name": "Electra Protocol",
+        "update_index": 1
     },
     {
         "id": 3,
-        "name": "OmniXEP release party Token"
+        "name": "OmniXEP release party Token",
+        "update_index": 1
     },
     {
         "id": 5,
-        "name": "OmniXEP release party NFT"
+        "name": "OmniXEP release party NFT",
+        "update_index": 1
     },
     {
         "id": 88,
-        "name": "Futurama NFT Collection"
+        "name": "Futurama NFT Collection",
+        "update_index": 1
     }
 ]
